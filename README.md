@@ -27,7 +27,7 @@ The function of our Review Access and Recommendation system can be seperated int
   
 Following the steps above, the system can retrieve required products, reviews and recommended reviews.
 
-## System Step Up
+## System Set Up
 
 See requirement.txt for python library requirement.
 
