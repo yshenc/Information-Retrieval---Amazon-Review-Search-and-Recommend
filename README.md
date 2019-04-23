@@ -1,10 +1,11 @@
-# Information-Retrieval---Amazon-Review-Search-and-Recommend
+# Information Retrieval --- Amazon Review Access and Recommendation
 
+## Project Description
 Team members: Guancheng Yao, Bowen Tang, Yuchen Shen
 
 The project is foucus on "Amazon Review Access and Recommendation", which is the final project for class CS525/DS595: Information Retrieval & Social Web at Worcestor Polytechnic Institute (WPI).
 
-Our dataset is gathered from Kaggle (https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products) which provided by Amazon. Anyone can gather it from the link or it can be found in our repository data file.
+Our dataset is gathered from Kaggle (https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products) which provided by Amazon. Anyone can gather it from the link or you can unzip the Review data.zip in our repository.
 The original dataset contains a list of over 34,000 reviews and 49 different products of Amazon products like the Kindle, Fire TV, etc. it also contains information about product rating, number of lighten and other useful features.
 
 Our project is going to retrieve reviews for certain product based on given terms, and different from most of other review search services, we will also recommend some other reviews that consumer's may interested in. It will save consumer’s time in extracting the comments they are looking for. We combined several methods together, to rank the reviews and recommend most possible ones. Methods we are using is learned from the IR and ML class.
@@ -25,3 +26,4 @@ The function of our Review Access and Recommendation system can be seperated int
   
 Following the steps above, the system can retrieve required products, reviews and recommended reviews.
 
+## Code Description
