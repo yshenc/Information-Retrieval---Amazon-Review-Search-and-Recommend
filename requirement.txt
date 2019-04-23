@@ -1,0 +1,17 @@
+##python library requirement
+
+pandas
+re
+numpy
+random
+json
+nltk
+sklearn
+datetime
+time
+string
+heapq
+
+
+nltk.download('vader_lexicon')
+nltk.download('stopwords')
