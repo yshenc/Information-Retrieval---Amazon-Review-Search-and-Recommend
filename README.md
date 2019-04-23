@@ -31,6 +31,8 @@ Following the steps above, the system can retrieve required products, reviews an
 
 See requirement.txt for python library requirement.
 
+In 'dict' folder, we already provide inverted index dictionary for product and review.
+
 For product and review search, just simply run 'Main.py' in terminal.
 The program will ask your purpose, such as 'Product Search? y/n'. Just answer questions as the description appearing.
 Then type in terms you want for products as 'Search Product: ' appear, then products will be returned.
