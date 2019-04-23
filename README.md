@@ -1,6 +1,7 @@
 # Information Retrieval --- Amazon Review Access and Recommendation
 
 ## Project Description
+
 Team members: Guancheng Yao, Bowen Tang, Yuchen Shen
 
 The project is foucus on "Amazon Review Access and Recommendation", which is the final project for class CS525/DS595: Information Retrieval & Social Web at Worcestor Polytechnic Institute (WPI).
@@ -26,4 +27,16 @@ The function of our Review Access and Recommendation system can be seperated int
   
 Following the steps above, the system can retrieve required products, reviews and recommended reviews.
 
-## Code Description
+## System Step Up
+
+See requirement.txt for python library requirement.
+
+For product and review search, just simply run 'Main.py' in terminal.
+The program will ask your purpose, such as 'Product Search? y/n'. Just answer questions as the description appearing.
+Then type in terms you want for products as 'Search Product: ' appear, then products will be returned.
+
+Similarly, review search will follow the same way.
+Then products and reviews will be retrieved.
+
+For review recommendation, run 'lda.py' in terminal.
+Then type in the saerch term, the program will return words in the same topic. Finally, use 'Main.py' again to retrieve recommended reviews.
