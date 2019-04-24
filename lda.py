@@ -13,7 +13,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.externals import joblib
 from sklearn.decomposition import LatentDirichletAllocation
 
-path = '/Users/hush/Downloads/consumer-reviews-of-amazon-products/1429_1.csv'
+path = './data/OriginalReview.csv'
 pd.set_option('display.max_colwidth', 0)
 
 def getData(path):
