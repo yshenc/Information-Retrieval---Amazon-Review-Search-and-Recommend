@@ -29,6 +29,7 @@ Following the steps above, the system can retrieve required products, reviews an
 
 ## System Set Up
 
+# System
 See requirement.txt for python library requirement.
 
 In 'dict' folder, we already provide inverted index dictionary for product and review.
@@ -42,3 +43,4 @@ Then products and reviews will be retrieved.
 
 For review recommendation, run 'lda.py' in terminal.
 Then type in the saerch term, the program will return words in the same topic. Finally, use 'Main.py' again to retrieve recommended reviews.
+# Website Demo
