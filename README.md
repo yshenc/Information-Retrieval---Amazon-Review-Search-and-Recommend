@@ -52,7 +52,3 @@ There are 12 products listed on the home page, and by selecting each one of them
 How to use:
 In 'Website Demo' folder, 'index.html' is the start file.
 Because this is a static html, you can import it to any IDE you prefer to use, or just double-click the 'index.html' directly. It will show the page in your browser.
-
-# Reference
-
-The website templete: https://html5up.net/
